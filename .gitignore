@@ -1,0 +1,16 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+android/gradle.properties
+android/local.properties
+android/.idea/
+android/build/
+android/app/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+ios/Pods/
+ios/build/
+ios/*.xcodeproj
